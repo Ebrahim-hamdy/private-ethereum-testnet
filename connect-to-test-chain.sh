@@ -1,0 +1,1 @@
+geth --identity "EbraTestNetNode" --datadir /Users/ebra/code/blockchain/test-net-blockchain --nodiscover --networkid 1999 console
